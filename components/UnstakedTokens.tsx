@@ -233,7 +233,7 @@ export const UnstakedTokens = () => {
         ) : (
           <div></div>
         )}
-        {/* <div className="flex gap-5">
+        <div className="flex gap-5">
           <Tooltip title="Click on tokens to select them">
             <button
               onClick={() => {
@@ -290,7 +290,7 @@ export const UnstakedTokens = () => {
               <span className="my-auto">Select All</span>
             </button>
           </Tooltip>
-        </div> */}
+        </div>
       </div>
     </div>
   )
