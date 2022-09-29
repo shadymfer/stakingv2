@@ -1,6 +1,6 @@
 import { getExpirationString, secondstoDuration } from '@cardinal/common'
 import { BN } from '@project-serum/anchor'
-import { PublicKey } from '@solana/web3.js'
+// import { PublicKey } from '@solana/web3.js'
 import { useMintInfo } from 'hooks/useMintInfo'
 import { FaCheck } from 'react-icons/fa'
 
