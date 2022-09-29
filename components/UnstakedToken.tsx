@@ -1,5 +1,5 @@
 import type { ReceiptType } from '@cardinal/staking/dist/cjs/programs/stakePool'
-// import { LoadingSpinner } from 'common/LoadingSpinner'
+import { LoadingSpinner } from 'common/LoadingSpinner'
 import { QuickActions } from 'common/QuickActions'
 import {
   getImageFromTokenData,
